@@ -81,5 +81,5 @@ if __name__ == "main":
     help = '''
     清理脚本会清理电脑中的缓存文件，清理前请做好备份或者注释掉对应代码
     '''
-    main()
+    asyncio.run(main())
     
