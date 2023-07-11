@@ -76,7 +76,7 @@ async def main():
             continue
         
         break    
-if __name__ == "main":
+if __name__ == "__main__":
     
     help = '''
     清理脚本会清理电脑中的缓存文件，清理前请做好备份或者注释掉对应代码
