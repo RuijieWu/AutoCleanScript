@@ -1,3 +1,4 @@
+'''Config file for AutoCleanScript'''
 suf_list = (
     ".log",
     ".bak",
